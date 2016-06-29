@@ -15,7 +15,8 @@ html {
 }
 
 body {
-    margin: 0
+    margin: 0;
+    
 }
 
 article,
@@ -1969,7 +1970,7 @@ textarea.w-select {
 
 body {
     background-color: #424549;
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #333;
     font-size: 14px;
     line-height: 21px;
@@ -1986,7 +1987,7 @@ h1 {
 h2 {
     margin-top: 0px;
     margin-bottom: 20px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 32px;
     line-height: 36px;
     font-weight: 700;
@@ -1995,7 +1996,7 @@ h2 {
 h3 {
     margin-top: 20px;
     margin-bottom: 10px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #1f6fff;
     font-size: 24px;
     line-height: 30px;
@@ -2013,7 +2014,7 @@ h4 {
 h5 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #1fdb6a;
     font-size: 14px;
     line-height: 20px;
@@ -2126,11 +2127,11 @@ figcaption {
     background-color: transparent;
     -webkit-transition: background-color 200ms ease, border 200ms ease;
     transition: background-color 200ms ease, border 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .nav-link:hover {
-    border-color: rgba(0, 0, 0, .2);
+    border-color: rgba(255, 255, 255, .9);
     background-color: transparent;
 }
 
@@ -2155,7 +2156,7 @@ figcaption {
 }
 
 .nav-link.light.w--current {
-    border-color: rgba(0, 0, 0, .3);
+    border-color: rgba(255, 255, 255, .4);
 }
 
 .nav-link.color {
@@ -2206,7 +2207,7 @@ figcaption {
 .dropdown-link {
     -webkit-transition: background-color 200ms ease, color 200ms ease;
     transition: background-color 200ms ease, color 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
 }
 
@@ -2280,10 +2281,11 @@ figcaption {
     display: block;
     width: 60%;
     margin: 0px auto;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 50px;
     line-height: 55px;
     text-align: center;
+    letter-spacing:20px;
 }
 
 .button {
@@ -2294,7 +2296,7 @@ figcaption {
     background-color: #1f6fff;
     -webkit-transition: background-color 200ms ease, background-position 200ms ease, color 200ms ease, border 200ms ease, box-shadow 200ms ease;
     transition: background-color 200ms ease, background-position 200ms ease, color 200ms ease, border 200ms ease, box-shadow 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -2627,7 +2629,7 @@ figcaption {
 
 .section-title {
     margin-top: 0px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 36px;
 }
 
@@ -2637,7 +2639,7 @@ figcaption {
 
 .section-description {
     margin-top: 20px;
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .section-description.faded {
@@ -2779,7 +2781,7 @@ figcaption {
     background-color: transparent;
     -webkit-transition: background-color 200ms ease;
     transition: background-color 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .portfolio-tab-button:hover {
@@ -2896,14 +2898,14 @@ figcaption {
 }
 
 .portfolio-block-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 18px;
     font-weight: 700;
 }
 
 .portfolio-block-subtitle {
     margin-top: 10px;
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
 }
 
@@ -2990,7 +2992,7 @@ figcaption {
 }
 
 .testimonial-quote {
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 17px;
     line-height: 29px;
 }
@@ -3005,7 +3007,7 @@ figcaption {
 }
 
 .testimonial-name {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #1f6fff;
     font-size: 18px;
     font-weight: 700;
@@ -3013,7 +3015,7 @@ figcaption {
 
 .testimonial-name.subtitle {
     margin-top: 5px;
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #b3b3b3;
     font-size: 13px;
     font-weight: 400;
@@ -3167,7 +3169,7 @@ figcaption {
 }
 
 .image-section-overlay-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 34px;
     line-height: 38px;
     font-weight: 700;
@@ -3179,7 +3181,7 @@ figcaption {
     margin-top: 30px;
     margin-right: auto;
     margin-left: auto;
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 15px;
     line-height: 28px;
     font-weight: 300;
@@ -3229,20 +3231,20 @@ figcaption {
 .white-hero-title {
     margin-top: 10px;
     margin-bottom: 30px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
 }
 
 .small-hero-intro-title {
     margin-bottom: 10px;
     opacity: 0.3;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     text-transform: uppercase;
 }
 
 .hero-description {
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #a3aab8;
 }
 
@@ -3270,13 +3272,13 @@ figcaption {
 }
 
 .info-icon {
-    height: 30px;
+/*    height: 30px;*/
     margin-bottom: 10px;
 }
 
 .info-title {
     margin-bottom: 13px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 16px;
     font-weight: 700;
 }
@@ -3315,7 +3317,7 @@ figcaption {
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     background-color: #1fdb6a;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .newsletter-submit:hover {
@@ -3346,7 +3348,7 @@ figcaption {
 
 .footer-title {
     margin-bottom: 12px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-weight: 700;
     text-transform: uppercase;
@@ -3355,7 +3357,7 @@ figcaption {
 .footer-link {
     display: block;
     margin-top: 7px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #949494;
     text-decoration: none;
 }
@@ -3394,7 +3396,7 @@ figcaption {
 }
 
 .hero-title-fat {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-weight: 700;
 }
 
@@ -3441,7 +3443,7 @@ figcaption {
 
 .feature-title {
     margin-bottom: 23px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 15px;
     font-weight: 700;
 }
@@ -3463,7 +3465,7 @@ figcaption {
     display: inline-block;
     margin-top: 5px;
     margin-right: 15px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-size: 13px;
     text-decoration: none;
@@ -3528,6 +3530,7 @@ figcaption {
     margin-right: auto;
     margin-left: auto;
     opacity: 0.65;
+    font-size：18px;
 }
 
 .team-row {
@@ -3558,13 +3561,13 @@ figcaption {
 }
 
 .team-block-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 17px;
     font-weight: 700;
 }
 
 .team-block-title.subtitle {
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 13px;
     font-weight: 400;
 }
@@ -3633,7 +3636,7 @@ figcaption {
 .small-section-title {
     margin-bottom: 8px;
     opacity: 0.6;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 13px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -3698,7 +3701,7 @@ figcaption {
 
 .play-video-title {
     float: left;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     line-height: 17px;
 }
 
@@ -3721,7 +3724,7 @@ figcaption {
     border-radius: 3px;
     -webkit-transition: border 200ms ease;
     transition: border 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     line-height: 23px;
     text-align: center;
 }
@@ -3742,7 +3745,7 @@ figcaption {
     background-color: #1fdb6a;
     -webkit-transition: background-color 200ms ease;
     transition: background-color 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     text-transform: uppercase;
 }
 
@@ -3765,7 +3768,7 @@ figcaption {
     background-color: hsla(0, 0%, 100%, .2);
     -webkit-transition: background-color 200ms ease;
     transition: background-color 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .field:hover {
@@ -3880,7 +3883,7 @@ figcaption {
 
 .skill-title {
     margin-bottom: 7px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 16px;
     font-weight: 700;
 }
@@ -3908,7 +3911,7 @@ figcaption {
 
 .experience-title {
     margin-bottom: 5px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 16px;
     font-weight: 700;
 }
@@ -3996,19 +3999,19 @@ figcaption {
     display: block;
     width: 71%;
     margin: 0px auto 30px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-size: 40px;
     font-weight: 400;
 }
 
 .large-hero-title-bold {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-weight: 700;
 }
 
 .footer-logo {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-size: 19px;
     line-height: 17px;
@@ -4038,7 +4041,7 @@ figcaption {
 }
 
 .bottom-footer-paragraph.dark {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #5f5e5e;
 }
 
@@ -4164,7 +4167,7 @@ figcaption {
     background-color: #1f6fff;
     -webkit-transition: background-color 200ms ease;
     transition: background-color 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .trial-submit-button:hover {
@@ -4258,7 +4261,7 @@ figcaption {
 
 .long-feature-title {
     margin-bottom: 14px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 17px;
 }
 
@@ -4304,15 +4307,28 @@ figcaption {
 }
 
 .pricing-block.image {
-    background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/56de8de3cbfae1d5618165a6_Photo-12.jpg");
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/56de8de3cbfae1d5618165a6_Photo-12.jpg");
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     color: #fff;
 }
 
+.pricing-block.image-syn{
+    background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/synstream.jpg");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/synstream.jpg");
+}
+
+.pricing-block.image-nankunshan{
+   background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/nankunshan.jpg");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/nankunshan.jpg");
+}
+
+.pricing-block.image-maopao{
+    background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/maopao.jpg");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../../uploads/maopao.jpg");
+}
+
 .pricing-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 13px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -4321,7 +4337,7 @@ figcaption {
 .pricing-price {
     margin-top: 10px;
     margin-bottom: 30px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 44px;
     line-height: 40px;
     font-weight: 700;
@@ -4343,10 +4359,10 @@ figcaption {
     padding: 6px 9px;
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
-    background-color: #ff0052;
-    font-family: Montserrat, sans-serif;
+    background-color: #1f6fff;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 9px;
-    text-transform: uppercase;
+    text-transform:inherit;
 }
 
 .plan-tabs {
@@ -4354,7 +4370,7 @@ figcaption {
 }
 
 .plan-tabs-menu {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 11px;
     text-align: center;
     text-transform: uppercase;
@@ -4418,7 +4434,7 @@ figcaption {
 }
 
 .pricing-block-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #b9b9b9;
 }
 
@@ -4427,7 +4443,7 @@ figcaption {
 }
 
 .pricing-block-price {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #1f6fff;
     font-size: 44px;
     line-height: 50px;
@@ -4463,7 +4479,7 @@ figcaption {
 
 .pricing-feature-text {
     margin-bottom: 0px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
 }
 
@@ -4497,7 +4513,7 @@ figcaption {
 .overall-hero-title {
     margin-top: 0px;
     margin-bottom: 20px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 41px;
     font-weight: 700;
 }
@@ -4508,7 +4524,7 @@ figcaption {
 
 .text-column-title {
     margin-bottom: 10px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     line-height: 18px;
     font-weight: 700;
     text-transform: uppercase;
@@ -4538,7 +4554,7 @@ figcaption {
     box-shadow: 0 0 30px 0 transparent;
     -webkit-transition: box-shadow 200ms ease;
     transition: box-shadow 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #c7c7c7;
     font-size: 13px;
     font-weight: 700;
@@ -4578,7 +4594,7 @@ figcaption {
 
 .process-tab-title {
     margin-bottom: 23px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 24px;
     line-height: 29px;
     font-weight: 700;
@@ -4610,7 +4626,7 @@ figcaption {
 }
 
 .field-label {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #ced3dd;
     font-size: 13px;
     font-weight: 400;
@@ -4642,7 +4658,7 @@ figcaption {
     background-color: #edeef1;
     -webkit-transition: box-shadow 200ms ease, border 200ms ease, background-color 200ms ease;
     transition: box-shadow 200ms ease, border 200ms ease, background-color 200ms ease;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
 }
 
@@ -4668,7 +4684,7 @@ figcaption {
 
 .dark-footer-title {
     margin-bottom: 15px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
@@ -4677,7 +4693,7 @@ figcaption {
 .light-footer-link {
     display: block;
     margin-bottom: 4px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #bfc4ce;
     font-size: 13px;
     text-decoration: none;
@@ -4742,7 +4758,7 @@ figcaption {
 .portfolio-item-title {
     display: block;
     margin-bottom: 15px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #000;
     font-weight: 700;
     text-decoration: none;
@@ -4796,7 +4812,7 @@ figcaption {
 .hero-slider-title {
     margin-top: 0px;
     margin-bottom: 20px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
 }
 
@@ -4820,7 +4836,7 @@ figcaption {
 .hero-title-large {
     margin-top: 0px;
     margin-bottom: 25px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-size: 48px;
     line-height: 54px;
@@ -4853,7 +4869,7 @@ figcaption {
 
 .large-pricing-title {
     margin-bottom: 4px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     text-transform: uppercase;
 }
 
@@ -4886,7 +4902,7 @@ figcaption {
 }
 
 .pricing-list-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
 }
 
@@ -4937,7 +4953,7 @@ figcaption {
 .feature-info-title {
     margin-top: 8px;
     margin-bottom: 30px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 19px;
     font-weight: 700;
 }
@@ -4950,7 +4966,7 @@ figcaption {
 .checkbox {
     margin-top: 20px;
     margin-bottom: 0px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #979eac;
     font-size: 13px;
     line-height: 18px;
@@ -4972,7 +4988,7 @@ figcaption {
 
 .hero-main-title {
     margin-top: 0px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-size: 70px;
     line-height: 54px;
@@ -5082,7 +5098,7 @@ figcaption {
 
 .intro-block-title {
     margin-bottom: 20px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 23px;
     font-weight: 700;
 }
@@ -5154,7 +5170,7 @@ figcaption {
 
 .small-footer-title {
     margin-bottom: 20px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-size: 17px;
     font-weight: 700;
@@ -5232,7 +5248,7 @@ figcaption {
 
 .nav-title {
     margin-bottom: 8px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #1f6fff;
     font-size: 16px;
     font-weight: 700;
@@ -5260,7 +5276,7 @@ figcaption {
 
 .mockup-feature-title {
     margin-bottom: 7px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
 }
 
@@ -5298,7 +5314,7 @@ figcaption {
 
 .small-testimonial-text {
     float: none;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 16px;
     line-height: 25px;
     font-weight: 300;
@@ -5396,7 +5412,7 @@ figcaption {
     position: relative;
     z-index: 10;
     margin-bottom: 17px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 19px;
     font-weight: 700;
 }
@@ -5457,7 +5473,7 @@ figcaption {
 
 .white-pricing-title {
     margin-bottom: 15px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
@@ -5482,7 +5498,7 @@ figcaption {
 .white-price-title {
     margin-top: 20px;
     margin-bottom: 20px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 44px;
     line-height: 40px;
     font-weight: 700;
@@ -5648,7 +5664,7 @@ figcaption {
 
 .form-title {
     margin-top: 0px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     line-height: 34px;
     text-align: center;
 }
@@ -5656,7 +5672,7 @@ figcaption {
 .form-title.subtitle {
     margin-top: 13px;
     margin-bottom: 40px;
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 16px;
     line-height: 16px;
     font-weight: 400;
@@ -5665,7 +5681,7 @@ figcaption {
 .subpage-title {
     margin-top: 0px;
     margin-bottom: 0px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 40px;
     line-height: 40px;
 }
@@ -5697,7 +5713,7 @@ figcaption {
 
 .contact-info-title {
     display: inline-block;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .contact-info-list-item {
@@ -5757,7 +5773,7 @@ figcaption {
 
 .popup-title {
     margin-bottom: 20px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 19px;
 }
 
@@ -5793,7 +5809,7 @@ figcaption {
 .small-contact-info-title {
     margin-bottom: 9px;
     opacity: 0.6;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
@@ -5862,13 +5878,13 @@ figcaption {
 }
 
 .cta-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 24px;
 }
 
 .cta-title.subtitle {
     margin-top: 20px;
-    font-family: Merriweather, serif;
+    font-family:"Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #a8a8a8;
     font-size: 14px;
 }
@@ -5899,7 +5915,7 @@ figcaption {
 
 .small-feature-title {
     margin-bottom: 10px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 15px;
     font-weight: 700;
 }
@@ -5919,12 +5935,12 @@ figcaption {
 
 .color-pricing-title {
     margin-bottom: 2px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #1fdb6a;
 }
 
 .pricing-price-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 34px;
     line-height: 40px;
 }
@@ -5941,7 +5957,7 @@ figcaption {
 
 .pricing-feature-title {
     display: inline-block;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #969696;
     font-size: 13px;
 }
@@ -5999,7 +6015,7 @@ figcaption {
 }
 
 .team-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 20px;
     font-weight: 700;
 }
@@ -6039,7 +6055,7 @@ figcaption {
 }
 
 .team-member-name {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .team-member-tag {
@@ -6049,7 +6065,7 @@ figcaption {
     padding-left: 11px;
     border-radius: 3px;
     background-color: #1fdb6a;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #fff;
     font-size: 11px;
     line-height: 22px;
@@ -6137,7 +6153,7 @@ figcaption {
 
 .small-column-title {
     margin-bottom: 12px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     font-size: 16px;
     font-weight: 700;
 }
@@ -6256,7 +6272,7 @@ figcaption {
     position: absolute;
     left: 0px;
     top: 0px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #1f6fff;
     font-size: 54px;
     line-height: 71px;
@@ -6314,7 +6330,7 @@ figcaption {
 }
 
 .portfolio-overview-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: #b4b4b4;
     font-size: 12px;
     line-height: 18px;
@@ -6499,7 +6515,7 @@ figcaption {
 .dark-footer-link {
     display: block;
     margin-bottom: 7px;
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
     color: hsla(0, 0%, 100%, .5);
     text-decoration: none;
 }
@@ -6523,7 +6539,7 @@ figcaption {
 }
 
 .table-title {
-    font-family: Montserrat, sans-serif;
+    font-family: "Microsoft YaHei",Arial,Roboto,"Droid Sans","Helvetica Neue","Droid Sans Fallback","Heiti SC","Hiragino Sans GB",Simsun,sans-self;
 }
 
 .license-image {
